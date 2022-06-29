@@ -180,7 +180,7 @@ html, body {
     height: 500px;
     width: 1600px;
     opacity: 0.3;
-    bottom: 1650px;
+    bottom: 2020px;
 }
 #h7{
     position: relative;
@@ -199,4 +199,92 @@ html, body {
     border-radius: 60px;
     background-color:black;
     margin: 20px;
+    padding: 10px;
 }
+#button6{
+    position: relative;
+    height: 50px;
+    width: 300px;
+    border-color: green;
+    background-color: white;
+    bottom: 1200px;
+    left: -140px;
+    padding: 10px;
+}
+/* #bg1{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1500px;
+    height: 600px;
+    bottom: 1200px;
+} */
+.dot{
+    position: relative;
+    color: black;
+    bottom: 1380px;
+    left: 445px;
+}
+.dot1{
+    position: relative;
+    color: black;
+    bottom: 1410px;
+    left: 560px;
+}
+.dot2{
+    position: relative;
+    color: black;
+    bottom: 1445px;
+    left: 670px;
+}
+.dot3{
+    position: relative;
+    color: black;
+    bottom: 1480px;
+    left: 790px;
+}
+.dot4{
+    position: relative;
+    color: black;
+    bottom: 1515px;
+    left: 900px;
+}
+#steps{
+    position: relative;
+    color: black;
+    bottom: 1610px;
+    left: 385px;
+}
+#steps1{
+    position: relative;
+    color: black;
+    bottom: 1645px;
+    left: 500px;
+}
+#steps2{
+    position: relative;
+    color: black;
+    bottom: 1680px;
+    left: 610px;
+}
+#steps3{
+    position: relative;
+    color: black;
+    bottom: 1715px;
+    left:730px;
+}
+#steps4{
+    position: relative;
+    color: black;
+    bottom: 1750px;
+    left: 840px;
+}
+#steps5{
+    position: relative;
+    color: black;
+    bottom: 1785px;
+    left: 950px;
+}
+}
+
+
+
